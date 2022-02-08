@@ -12,8 +12,6 @@ int main(){
         printf("%d \n", s[i]);
     }
 }
-
-
 void insertion_sort(int s[], int n){
 
     int i,j; /* counters */
